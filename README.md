@@ -7,7 +7,7 @@ This is very early stage of this project currently.
 
 Hevava UI is made to help you build interfaces faster — use individual components when you need them, or start with a ready-made template and customize it for your project.
 
-## Features
+## Features ( Confirmed Target )
 
 - 🧩 **Customizable Components** — Reusable React components that you can easily customize.
 - ⚡ **React + Tailwind CSS** — A simple approach using technologies you already know.
